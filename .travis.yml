@@ -1,0 +1,11 @@
+sudo: false
+language: node_js
+node_js:
+    - "0.12.4"
+before_install:
+    - "npm install -g npm"
+    - "npm install -g gulp-cli"
+install:
+    - "npm install"
+before_script:
+    - gulp
