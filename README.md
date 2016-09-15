@@ -1,2 +1,2 @@
-# gulp-yellowabtools
+# gulp-yellowlabtools
 Gulp plugin for YellowLabTools
